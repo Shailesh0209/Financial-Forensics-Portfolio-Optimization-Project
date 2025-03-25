@@ -79,6 +79,24 @@ Below is our optimized and diversified portfolio:
 
 ---
 
+## 🛠️ How to Run
+
+The project includes a main script that you can run to test the portfolio optimization process:
+
+```bash
+python portfolio-optimization.py
+```
+
+This script will:
+1. Load and preprocess the financial data
+2. Run the mean-variance optimization algorithm
+3. Calculate and display portfolio performance metrics
+4. Generate the optimized portfolio as CSV output
+
+The script features robust error handling with fallback solver options (SCS, ECOS) to ensure optimization convergence under various conditions.
+
+---
+
 ## 🚀 Key Project Highlights
 
 - **Robust Optimization**: Clearly implemented Mean-Variance Optimization to balance risk and reward.

@@ -112,9 +112,7 @@ Our diversified and optimized portfolio achieved an outstanding **Portfolio Perf
 
 ## 👨‍💻 Submission Files
 
-- `team_03_portfolio.csv`: Detailed selected portfolio.
-- `team_03_score_share.csv`: Group member score distribution.
-
+- `portfolio.csv`: Detailed selected portfolio.
 ---
 
 ## 🏅 Conclusion
@@ -125,11 +123,6 @@ This project demonstrates an efficient financial portfolio optimization strategy
 
 **Prepared by:**
 
-- **Team 03**  
+- **Shailesh**  
 - Date: March 2025  
 - Course: Financial Forensics Project
-
----
-
-*Best of luck!* 🚀
-
